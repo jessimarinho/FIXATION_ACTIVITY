@@ -1,2 +1,2 @@
 # FIXATION_ACTIVITY
-List and Table
+Lista e Tabela
